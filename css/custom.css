@@ -6,7 +6,7 @@
 
 	--colorDark:#191919;
 
-	--colorPrimary:#448994;
+	--colorPrimary:#9D7F1B;
 
 	--colorBlue: #9D7F1B;
 
@@ -3953,7 +3953,7 @@ line-height: 35px;
 
 .grecaptcha-badge { opacity:0;}
 
-.logo img{max-width: 200px;}
+.logo img{max-width: 150px;}
 
 .btn-dark {
 
