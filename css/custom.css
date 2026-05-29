@@ -2537,7 +2537,7 @@ background: #fff;
 
 	height: auto;
 
-	border: solid 5px rgba(0,0,0,.3);
+	/* border: solid 2px rgba(0,0,0,.3); */
 
 	box-shadow: 0px 10px 15px -5px rgba(0,0,0,.15);
 
@@ -3739,7 +3739,7 @@ cursor: pointer;
 
 background: var(--colorBlue);
 
-color: #000 !important;
+color: white;
 
 box-shadow: 0px 5px 10px rgba(0,0,0,.1);
 
