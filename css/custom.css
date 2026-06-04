@@ -26,8 +26,9 @@ body{
 
 	user-select: none;
 
-	font-family: 'Open Sans', sans-serif!important;
-
+	/* font-family: 'Open Sans', sans-serif; */
+	/* font-family: 'Cormorant Garamond Semibold'; */
+	font-family: "Jost", sans-serif !important;
 	font-weight: 400!important;
 
 	font-size: 14px!important;
@@ -307,7 +308,7 @@ html {
 
 header{
 
-	/* position: fixed; */
+	position: fixed;
 
 z-index: 1000;
 
@@ -651,7 +652,7 @@ header .call a{
 
 h1{
 
-	font-family: 'Roboto', sans-serif!important;
+	font-family: 'Cormorant Garamond Semibold' !important;
 
 	font-weight:700!important;
 
@@ -671,7 +672,7 @@ h1{
 
 h2{
 
-    font-family: 'Roboto', sans-serif!important;
+    font-family: 'Cormorant Garamond Semibold' !important;
 
 	font-weight:700!important;
 
