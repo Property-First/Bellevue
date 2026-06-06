@@ -654,7 +654,7 @@ h1{
 
 	font-family: 'Cormorant Garamond Semibold' !important;
 
-	font-weight:700!important;
+	font-weight:500!important;
 
 	font-size: 28px!important;
 
@@ -674,7 +674,7 @@ h2{
 
     font-family: 'Cormorant Garamond Semibold' !important;
 
-	font-weight:700!important;
+	font-weight:500!important;
 
 	font-size: 40px!important;
 
@@ -3029,7 +3029,7 @@ textarea {
 
 	font-weight:normal!important;
 
-	font-weight: 700!important;
+	font-weight: 500!important;
 
 	text-transform: capitalize;
 
@@ -3572,6 +3572,7 @@ textarea {
     border-radius: 0 10px 10px 0px;
 
     border-width: 1px 1px 1px 0;
+	letter-spacing: 1px;
 
 }
 
@@ -3580,6 +3581,7 @@ textarea {
     border-radius: 10px 0 0 10px;
 
     border-width: 1px 0 1px 1px;
+	
 
 }
 
